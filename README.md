@@ -1,0 +1,1 @@
+The program is used for locating and extracting objects from an image as well as removing the background around them. It utilizes both the original and edited image. It is capable of cutting out added objects from the edited image.
